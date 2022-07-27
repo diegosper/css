@@ -1,0 +1,14 @@
+input:out-of-range {
+    background-color: lightcoral;
+    color: darkred;
+    font-weight: bold;
+    border: solid 2px red;
+}
+
+input:in-range{
+    background-color: lightgreen;
+    color: darkgreen;
+    border: solid 2px green;
+
+}
+
