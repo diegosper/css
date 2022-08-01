@@ -1,0 +1,26 @@
+body{
+    display: flex;    
+    justify-content: center;
+}
+
+#title-1{
+    color: darkred;
+}
+#title-1:hover{
+    width: fit-content;
+    color: aqua;
+    background-color: black;
+}
+
+
+.box{
+    margin: 1rem;
+    padding: 1rem;
+    text-align: justify;
+    width: 500px  ;   
+    border-top: dotted 5px green;
+    border-right: dashed 5px blue;
+    border-left:  double 10px;
+    border-bottom: solid 5px red;
+    
+}
