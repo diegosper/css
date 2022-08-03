@@ -16,11 +16,15 @@
 }
 
 td{
-    border-bottom: solid 2px;
+    border-bottom: solid 3px;
     border-left: solid 1px;
     padding: 2px 30px;
     
 }
 
+.footer{
+    text-align: center;
+    border: none;
+}
 
 
