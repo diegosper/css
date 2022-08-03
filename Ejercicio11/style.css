@@ -1,0 +1,26 @@
+.box{
+    text-align:center;
+    
+}
+
+.fondo-azul{
+    background-color: dodgerblue;
+    display: inline;
+}
+
+.table-center{
+    background-color: antiquewhite;
+    padding-top: 20px;
+    margin: 20px auto;
+    border: solid 5px;
+}
+
+td{
+    border-bottom: solid 2px;
+    border-left: solid 1px;
+    padding: 2px 30px;
+    
+}
+
+
+
