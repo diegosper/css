@@ -3,7 +3,7 @@
     
 }
 
-.fondo-azul{
+.title{
     background-color: dodgerblue;
     display: inline;
 }
@@ -13,9 +13,12 @@
     padding-top: 20px;
     margin: 20px auto;
     border: solid 5px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
 }
 
 td{
+    text-align: center;
     border-bottom: solid 3px;
     border-left: solid 1px;
     padding: 2px 30px;
