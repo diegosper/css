@@ -1,0 +1,40 @@
+.square{
+    margin: 25px auto;
+    background-color: red;
+    height: 400px;
+    width: 400px;
+    border: solid 4px;
+}
+
+.circle{
+    background-color: yellowgreen;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    padding:0vmin;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    border: solid 2px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.circle-1{
+    bottom: 23px;
+    right: 23px;
+}
+.circle-2{
+    bottom: 67px;
+    left: 381px;
+}
+.circle-3{
+    top: 293px;
+    right: 23px;
+}
+.circle-4{
+    top: 249px;
+    left: 381px;
+}
