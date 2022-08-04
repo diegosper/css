@@ -1,0 +1,31 @@
+header{
+    background-color: red;
+    height: 20vh;
+}
+
+nav{
+    background-color: dodgerblue;
+    height: 50px;
+    height: 10vh;
+}
+
+section{
+    background-color: antiquewhite;
+    width: 59%;
+    height: 60vh;
+    float: left;
+    
+}
+
+aside{
+    background-color: pink;
+    width: 39%;
+    height: 60vh;
+    float: right;
+}
+
+footer{
+    background-color: greenyellow;
+    height: 5vh;
+    clear: both;
+}
