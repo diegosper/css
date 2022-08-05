@@ -1,0 +1,36 @@
+
+.container{
+    min-width: 320px;
+    max-width: 50vw;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.box{
+    border: solid 1px;
+}
+
+.box-1{
+    background-color: orange;
+    width: auto;
+    box-sizing: border-box;
+}
+
+.box-2{
+    background-color: rgb(178, 250, 115);
+    width: 100vw;
+    box-sizing: border-box;
+}
+
+.box-3{
+    background-color: cornflowerblue;
+    width: 33vw;
+    box-sizing: border-box;
+}
+
+.box-4{
+    background-color: beige;
+    width: 25vw;
+    box-sizing: border-box;
+}
